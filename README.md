@@ -4,7 +4,7 @@
 
 To effectively disseminate information and market your product, campaign, or story, you need a strong media presence. Many people only become interested in a product if it has reviews and a notable online profile. Building on my previous [comment and tweet generator](https://github.com/ak8000/Comment-Tweet-Generator), this project aims to create more customized comments and tweets.
 
-## **WHY USE IT?**
+## **WHY USE IT ?**
 
 Imagine Business A, which has a marketing department responsible for promoting their products. Unfortunately, they face competition from Business B, who has hired individuals to spread misinformation about Business A. Due to other responsibilities, Business A's marketing department can't respond promptly, causing their reputation to suffer. This project offers a solution to such scenarios.
 

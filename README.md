@@ -4,7 +4,7 @@
 
 To effectively disseminate information and market your product, campaign, or story, you need a strong media presence. Many people only become interested in a product if it has reviews and a notable online profile. Building on my previous [comment and tweet generator](https://github.com/ak8000/Comment-Tweet-Generator), this project aims to create more customized comments and tweets.
 
-This idea is part of the bigger project that I am currently working on, written in React, and using AWS. Because I cannot share the project due to other parties envolved, i decided to create a small Google Colab Application, that completes one of the important parts of the projct to show some of the functions involved in the project
+This idea is part of the bigger project that I am currently working on. This project is a Serverless Web Application on AWS, using Dynamo DB, Lambda Functions, API Gateway, S3, and React. Because I cannot share the project due to other parties envolved, i decided to create a small Google Colab Application, that completes one of the important parts of the projct to show some of the functions involved in the project
 
 ## **WHY USE IT ?**
 

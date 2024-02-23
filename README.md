@@ -35,8 +35,8 @@ Imagine Business A, which has a marketing department responsible for promoting t
 
 To get started with this project:
 
-1. **Copy and paste the code into Google Colab.**
-2. **Install Dependencies**: If running locally, install the required Python packages. In Google Colab, these are pre-installed.
+1. **Clone the repository**
+2. **Install Dependencies**: If running locally, install the required Python packages.
 3. **Set OpenAI API Key**: Insert your OpenAI API key for authentication.
 4. **Configure Paths**: Connect Google Drive and specify the path to your `personas.csv` file or another file of your choice.
   - **Sample Personas**: See what a personas file should look like [here](https://github.com/ak8000/Generate-Comments-By-Personas/blob/main/personas.csv).

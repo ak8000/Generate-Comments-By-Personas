@@ -4,7 +4,7 @@
 
 To effectively disseminate information and market your product, campaign, or story, you need a strong media presence. Many people only become interested in a product if it has reviews and a notable online profile. Building on my previous [comment and tweet generator](https://github.com/ak8000/Comment-Tweet-Generator), this project aims to create more customized comments and tweets.
 
-This function is a part of a larger project that I am actively engaged in. The project itself is a Serverless Web Application built on AWS, utilizing services such as DynamoDB for database management, Lambda Functions written in Node.js 18.x for serverless computing, API Gateway for routing, and S3 for storage. For the front-end, I employed React to build a dynamic and responsive user interface. Due to confidentiality agreements with other parties involved, I'm unable to share the full project details. However, to showcase some of the project's functionalities, I've developed a scaled-down version in python, which replicates one of the important aspects of the project.
+This function is a part of a larger project that I am actively engaged in. The project itself is a Serverless Web Application built on AWS, utilizing services such as DynamoDB for database management, Lambda Functions written in Node.js 18.x for serverless computing, API Gateway for routing, and S3 for storage. For the front-end, I employed React to build a dynamic and responsive user interface. Due to confidentiality agreements with other parties involved, I'm unable to share the full project details. However, to showcase some of the project's functionalities, I've developed a scaled-down version in python, **but recommened running this in Google Colab**, which replicates one of the important aspects of the project.
 
 ## **WHY USE IT ?**
 
@@ -35,7 +35,7 @@ Imagine Business A, which has a marketing department responsible for promoting t
 
 To get started with this project:
 
-1. **Clone the repository**
+1. **Clone the repository / or copy code into Google Colab**
 2. **Install Dependencies**: If running locally, install the required Python packages.
 3. **Set OpenAI API Key**: Insert your OpenAI API key for authentication.
 4. **Configure Paths**: Connect Google Drive and specify the path to your `personas.csv` file or another file of your choice.
